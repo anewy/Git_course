@@ -32,4 +32,5 @@ current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 print(current_time)
 print("Control sum: " + str(control_sum(current_time)))
 print("thx")
+#https://habr.com/ru/post/541258/ - URL to guide
 #print check(current_time + '\n' + "Control sum: " + str(control_sum(current_time)))
